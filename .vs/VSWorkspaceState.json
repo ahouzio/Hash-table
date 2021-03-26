@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\lib",
+    "\\obj",
+    "\\src",
+    "\\tests"
+  ],
+  "SelectedNode": "\\tests\\Makefile",
+  "PreviewInSolutionExplorer": false
+}
