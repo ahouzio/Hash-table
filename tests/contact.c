@@ -1,4 +1,4 @@
-/*Pour la compilation et l'édition des liens du test tapez : gcc -std=c99 -Wall -Wextra -g contact-01.c ../src/contact.c -o exe */
+/*Pour la compilation et l'édition des liens du test tapez : gcc contact.c "PATH TO LIBRARY" -ldirectory -o exe */
 
 #include <stdlib.h>
 #include <stdint.h>

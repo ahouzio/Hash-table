@@ -1,5 +1,5 @@
+/*Pour la compilation et l'édition des liens du test tapez : /*Pour la compilation et l'édition des liens du test tapez : gcc contact.c "PATH TO LIBRARY" -ldirectory -o exe */
 
-    /*Pour la compilation et l'édition des liens du test tapez : gcc -std=c99 -Wall -Wextra -g directory-01.c ../src/directory.c ../src/contact.c ../src/hash.c -o exe */
 /*
   Test du module directory.
 
